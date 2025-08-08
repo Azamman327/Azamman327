@@ -21,6 +21,10 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 </div>
+<h3 align="center">🔄 Currently in Development 🔄</h3>    
+  <div align="center">
+    <a href="https://github.com/oridungjeol/duckhang-front-nextjs">React -> Next.js, TypeScript 마이그레이션 프로젝트</a>
+  </div>
 <br>
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
