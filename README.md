@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Hello%20I'm%20YuYoung)
 </div>
@@ -16,14 +16,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">    
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></div>
 <br>
-<!-- <h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-</div>
-<h3 align="center">🔄 Currently in Development 🔄</h3>    
-  <div align="center">
-    <a href="https://github.com/oridungjeol/duckhang-front-nextjs">React -> Next.js, TypeScript 마이그레이션 프로젝트</a>
-  </div> -->
+
 <br>
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -39,4 +32,4 @@
     <img
       src="https://img.shields.io/badge/jun32617a@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-</div>
+</div> -->
